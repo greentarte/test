@@ -1,2 +1,6 @@
 git test first 
+<<<<<<< HEAD
 Third commit
+=======
+Git second
+>>>>>>> abb70042310d4b8fbf889fa99cb305c4624ecc6a
